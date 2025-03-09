@@ -1,4 +1,1 @@
-# AC-demo
-My first Repository
-<br> 
-Author-Aniruddha Choudhury
+My Name Is Aniruddha Choudhury 
